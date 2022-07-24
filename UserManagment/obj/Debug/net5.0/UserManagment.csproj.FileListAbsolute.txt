@@ -1,0 +1,32 @@
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.exe
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.deps.json
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.runtimeconfig.json
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.runtimeconfig.dev.json
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.dll
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.pdb
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.csproj.AssemblyReference.cache
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.AssemblyInfoInputs.cache
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.AssemblyInfo.cs
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.csproj.CoreCompileInputs.cache
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.dll
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\refint\UserManagment.dll
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.pdb
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.genruntimeconfig.cache
+C:\Users\rog\Desktop\Code academy\Home task\User managment\user-managment\UserManagment\UserManagment\obj\Debug\net5.0\ref\UserManagment.dll
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.csproj.AssemblyReference.cache
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.AssemblyInfoInputs.cache
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.AssemblyInfo.cs
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.csproj.CoreCompileInputs.cache
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.dll
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\refint\UserManagment.dll
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.pdb
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.exe
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.deps.json
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.runtimeconfig.json
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.runtimeconfig.dev.json
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.dll
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\bin\Debug\net5.0\UserManagment.pdb
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\UserManagment.genruntimeconfig.cache
+C:\Users\rog\Desktop\Code academy\My projects\UserManagment\UserManagment\obj\Debug\net5.0\ref\UserManagment.dll
